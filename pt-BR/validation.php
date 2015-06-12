@@ -70,7 +70,7 @@ return [
         "string"  => "O campo :attribute deverá conter :size caracteres.",
         "array"   => "O campo :attribute deve ter :size itens.",
     ],
-    "string"           => "The :attribute must be a string.",
+    "string"           => "O campo :attribute deverá conter texto.",
     "timezone"         => "O campo :attribute deverá ter um fuso horário válido.",
     "unique"           => "O valor indicado para o campo :attribute já se encontra registrado.",
     "url"              => "O formato do URL indicado para o campo :attribute é inválido.",
